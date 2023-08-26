@@ -1,7 +1,9 @@
 <h1 align="center">Hola, soy Gamasaurio 🦕</h1>
 <h3 align="center">Soy un pequeño aprendiz de ciberseguridad y desarrollo web</h3>
 
-- 🌱 Actualmente estoy aprendiendo **python**
+
+Soy nuevo en esto, y estoy dispuesto a aprender todo lo que me sea posible :))
+ - 🌱 Actualmente estoy aprendiendo **python**
 
 <p align="left">
 </p>
