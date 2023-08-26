@@ -2,6 +2,7 @@
 <h3 align="center">Soy un pequeño aprendiz de ciberseguridad y desarrollo web</h3>
 
 
+
 Soy nuevo en esto, y estoy dispuesto a aprender todo lo que me sea posible :))
  - 🌱 Actualmente estoy aprendiendo **python**
 
